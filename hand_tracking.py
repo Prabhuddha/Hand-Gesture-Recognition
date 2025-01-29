@@ -1,6 +1,6 @@
 """
 Hand Tracking Module
-Author: Dev Patel
+Author: Prabhuddha Bhan
 """
 
 import cv2
